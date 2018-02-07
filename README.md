@@ -1,4 +1,4 @@
-[![TCS34903FN](TCS34903FN_I2C.png)](https://store.ncd.io/product/tcs34903fn-color-light-to-digital-converter-i2c-mini-module/)
+[![TCS34903FN](TCS34903_I2C.png)](https://store.ncd.io/product/tcs34903fn-color-light-to-digital-converter-i2c-mini-module/)
 
 # TCS34903FN
 
